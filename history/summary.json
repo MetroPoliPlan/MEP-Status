@@ -1,20 +1,20 @@
 [
   {
-    "name": "MEP MUC",
-    "url": "https://muc.metropoliplan.org",
-    "icon": "https://icons.duckduckgo.com/ip3/muc.metropoliplan.org.ico",
-    "slug": "mep-muc",
+    "name": "MEP API",
+    "url": "https://api.metropoliplan.org/api/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/api.metropoliplan.org.ico",
+    "slug": "mep-api",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 930,
-    "timeDay": 1049,
-    "timeWeek": 930,
-    "timeMonth": 930,
-    "timeYear": 930,
+    "time": 838,
+    "timeDay": 838,
+    "timeWeek": 838,
+    "timeMonth": 838,
+    "timeYear": 838,
     "dailyMinutesDown": {}
   }
 ]
