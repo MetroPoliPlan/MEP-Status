@@ -10,6 +10,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.metropoliplan.org
+  themeUrl: https://www.metropoliplan.org/MEP-Status/mep-theme.css
   baseUrl: /MEP-Status
   logoUrl: https://avatars.githubusercontent.com/u/22880102?s=400&u=da653b0394bec07ec80e17e54134ce79c727d03e&v=4
   name: MEP
