@@ -14,7 +14,10 @@ status-website:
   baseUrl: /MEP-Status
   logoUrl: https://avatars.githubusercontent.com/u/22880102?s=400&u=da653b0394bec07ec80e17e54134ce79c727d03e&v=4
   name: MEP
+  faviconSvg: https://www.metropoliplan.org/favicon.svg
 
+i18n:
+  footer:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
