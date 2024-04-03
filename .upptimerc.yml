@@ -17,7 +17,7 @@ status-website:
   faviconSvg: https://www.metropoliplan.org/favicon.svg
 
 i18n:
-  footer:
+  footer: The Metropoliplan Team
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
