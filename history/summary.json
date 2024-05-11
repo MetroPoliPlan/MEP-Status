@@ -4,7 +4,7 @@
     "url": "https://api.metropoliplan.org/api/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.metropoliplan.org.ico",
     "slug": "mep-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
@@ -16,6 +16,7 @@
     "timeMonth": 1401,
     "timeYear": 1149,
     "dailyMinutesDown": {
+      "2024-05-11": 0,
       "2024-05-09": 55,
       "2024-05-07": 21,
       "2024-04-30": 52,
