@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.metropoliplan.org.ico",
     "slug": "mep-api",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 1223,
-    "timeDay": 1073,
-    "timeWeek": 1047,
-    "timeMonth": 975,
-    "timeYear": 1277,
+    "time": 1224,
+    "timeDay": 1293,
+    "timeWeek": 1058,
+    "timeMonth": 989,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2024-12-29": 21,
       "2024-11-24": 16,
@@ -31,8 +31,7 @@
       "2024-05-11": 236,
       "2024-05-09": 55,
       "2024-05-07": 21,
-      "2024-04-30": 52,
-      "2024-04-24": 16
+      "2024-04-30": 52
     }
   }
 ]
