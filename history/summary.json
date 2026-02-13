@@ -4,17 +4,19 @@
     "url": "https://api.metropoliplan.org/api/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.metropoliplan.org.ico",
     "slug": "mep-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1079,
-    "timeDay": 961,
-    "timeWeek": 972,
+    "time": 1078,
+    "timeDay": 972,
+    "timeWeek": 973,
     "timeMonth": 1010,
     "timeYear": 1031,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-13": 0
+    }
   }
 ]
