@@ -1,7 +1,7 @@
 url: https://api.metropoliplan.org/api/healthz
 status: up
 code: 200
-responseTime: 1113
-lastUpdated: 2026-08-05T00:02:24.791Z
+responseTime: 1073
+lastUpdated: 2026-08-05T23:59:20.311Z
 startTime: 2024-03-18T15:37:33.458Z
 generator: Upptime <https://github.com/upptime/upptime>
